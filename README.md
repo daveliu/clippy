@@ -1,3 +1,5 @@
+This is a Chinese Version
+
 Clippy - Helping you copy text to your clipboard
 ================================================
 
